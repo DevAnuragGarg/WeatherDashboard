@@ -19,7 +19,7 @@ export const Navigation = () => {
         <Stack.Screen
           name={HOME_SCREEN}
           component={HomeScreen}
-          options={{ title: 'All Expenses' }}
+          options={{ title: 'Weather Info' }}
         />
         {/* <Stack.Screen
           name={ADD_EXPENSE_SCREEN}
